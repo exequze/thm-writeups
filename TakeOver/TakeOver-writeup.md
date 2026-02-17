@@ -20,7 +20,8 @@
 
 At first I mapped the target IP addres to the domain futurevera.thm within my /etc/hosts
 <pre>
-sudo bash -c 'echo "10.80.182.83    futurevera.thm" >> /etc/hosts'  
+┌──(exequze㉿kalimach)-[~]
+└─$ sudo bash -c 'echo "10.80.182.83    futurevera.thm" >> /etc/hosts'  
 </pre>
 
 Alternatively you can do sudo -s and then just the echo command.
