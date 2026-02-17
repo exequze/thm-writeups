@@ -8,13 +8,13 @@
 
 ## Summary
 
-- [1. Innitial Environment Setup](#1.-Innitial-Environment-Setup)
-- [2. Connectivity Check](#2.-Connectivity-Check)
-- [3. Web Exploration & Rabbit-Hole](#3.-Web-Exploration-&-Rabbit-Hole)
-- [4. Fuzzing for Subdomains](#4.-Fuzzing-for-Subdomains)
-- [5. SSL Certificate Inspection](#5.-SSL-Certificate-Inspection)
-- [6. Capturing the flag](#6.-Capturing-the-flag)
-- [7. Conclusion](#7.-Conclusion)
+- [1. Innitial Environment Setup](#1-Innitial-Environment-Setup)
+- [2. Connectivity Check](#2-Connectivity-Check)
+- [3. Web Exploration & Rabbit-Hole](#3-Web-Exploration-&-Rabbit-Hole)
+- [4. Fuzzing for Subdomains](#4-Fuzzing-for-Subdomains)
+- [5. SSL Certificate Inspection](#5-SSL-Certificate-Inspection)
+- [6. Capturing the flag](#6-Capturing-the-flag)
+- [7. Conclusion](#7-Conclusion)
 
 ## 1. Innitial Environment Setup
 
